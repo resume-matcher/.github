@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Resume Matcher](assets/page_2.png)](https://www.resumematcher.fyi)
+[![Resume Matcher](assets/og-image-wordmark.jpg)](https://www.resumematcher.fyi)
 
 # Resume Matcher
 
